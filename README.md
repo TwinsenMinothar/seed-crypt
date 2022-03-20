@@ -1,4 +1,5 @@
-<h1>Seed Crypt<h1>
+
+# Seed Crypt
 
 Enter a phrase a password and click on Encrypt, you will get your encrypted phrase as result.
 
